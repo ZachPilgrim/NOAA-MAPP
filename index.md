@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 
 
-_italic_For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_Italic_For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
