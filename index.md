@@ -25,10 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ![UGA GEOG](https://user-images.githubusercontent.com/89209768/132540951-e0989910-3adc-4abb-8dfd-7d981694d76b.png)
+
+
+
+_italic_For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
