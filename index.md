@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeog.franklin.uga.edu%2Fcourses%2Fall&psig=AOvVaw2RBGoxAZWjOGbDQyQ0D-z_&ust=1631201815204000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDsybna7_ICFQAAAAAdAAAAABAD](src)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeog.franklin.uga.edu%2Fcourses%2Fall&psig=AOvVaw2RBGoxAZWjOGbDQyQ0D-z_&ust=1631201815204000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDsybna7_ICFQAAAAAdAAAAABAD)
 
 ### Jekyll Themes
 
