@@ -28,7 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeog.franklin.uga.edu%2Fcourses%2Fall&psig=AOvVaw2RBGoxAZWjOGbDQyQ0D-z_&ust=1631201815204000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDsybna7_ICFQAAAAAdAAAAABAD)
+![image](
+![Print-GEO-A S-H-FC_0](https://user-images.githubusercontent.com/89209768/132540951-e0989910-3adc-4abb-8dfd-7d981694d76b.png)
+ABAD
 
 ### Jekyll Themes
 
