@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My github pages example site!
 
-You can use the [editor on GitHub](https://github.com/ZachPilgrim/Testsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can read more about the project here [in this article](https://franklin.uga.edu/news/stories/2020/uga-led-project-focused-understanding-complexity-droughts).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeog.franklin.uga.edu%2Fcourses%2Fall&psig=AOvVaw2RBGoxAZWjOGbDQyQ0D-z_&ust=1631201815204000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDsybna7_ICFQAAAAAdAAAAABAD](src)
 
 ### Jekyll Themes
 
