@@ -29,7 +29,7 @@ Even on these Caribbean islands with high average annual rainfall and extensive 
 
 #
 
-You can view some of the scripts that we are using [here.](NOAA-MAPP/scripts_page.md)
+You can view some of the scripts that we are using [here.](/scripts_page.md)
 
 A directory for all of the data that is being used for this project can be found [here.](/data_page.md)
 
