@@ -18,6 +18,8 @@ maybe some other things that would be helpful
 -maybe make a few other pages that link around with each other
 -contact flavia about some of this, make sure she is in the loop, and has the chance to say she doesn't have time to work on/help or whatever
 
+[Link](url) and ![Image](src)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
