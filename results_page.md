@@ -1,4 +1,6 @@
-### This is the page to host the results
+### NOAA MAPP Project Results
+
+---
 #### some example images are shown below taken from the 10-day EDDI results
 ---
 
@@ -30,3 +32,9 @@
 | [Data Repository](/data_page.md) |
 | [Results Page](/results_page.md) | 
 | [Related Works](/related_works.md) |
+
+---
+
+![UGA GEOG](https://user-images.githubusercontent.com/89209768/132540951-e0989910-3adc-4abb-8dfd-7d981694d76b.png)
+
+---
