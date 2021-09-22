@@ -1,4 +1,4 @@
-## The Data Repository for the NOAA MAPP Project
+## Data Repository for the NOAA MAPP Project
 
 ---
 
