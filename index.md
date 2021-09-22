@@ -1,4 +1,3 @@
-## Welcome to The NOAA MAPP Project Page!
 ## Understanding the Mechanisms Leading to Early Warning of Meteorological and Hydrological Drought in the U.S. Caribbean
 
 #### This project will create a multiproduct assessment of drought, including flash drought, and then evaluate climate mechanisms, with a focus on the role of the SAL, that are critical in improving drought early warning in the U.S. Caribbean.
