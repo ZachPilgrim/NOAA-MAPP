@@ -1,12 +1,13 @@
-### The Data page for the NOAA-MAPP Project
+## The Data Repository for the NOAA MAPP Project
+
 ---
-#### This is the data repository for the NOAA-MAPP project
+
 #### [Return to the main page](/index.md)
+
 ---
 
+### Python Scripts
 
-###
-Python Scripts
 ---
 
 | Data | Link | Description | File type |
@@ -15,8 +16,8 @@ Python Scripts
 | Daymet Leap Year | [Link](https://www.dropbox.com/s/3h4awvjhx3jcg96/daymetleap365_to_366_newyearlyfile_v2.py?dl=0) | Daymet 365 to 366 days, new yearly file version 2 | .py |
 | Penman Montieth Evapotranspiration Monthly Totals | [Link](https://www.dropbox.com/s/n9ulipc00oek8v9/ETo_FAO_PenmanMonteith_montly_climatology_Final.py?dl=0) | The Penman-Montieth ET<sub>o</sub> FAO (Food and Agricultural Organization) - equation for crop reference evapotranspiration  | .py |
 
-###
-Daymet (V3) Precipitation Data (Raw) 
+### Daymet (V3) Precipitation Data (Raw) 
+
 ---
 
 | Data | Link | Description | File type |
@@ -28,8 +29,8 @@ Daymet (V3) Precipitation Data (Raw)
 | Vapor Pressure | [Link](https://www.dropbox.com/sh/3n4h914ahtax1rw/AABURUvjJwA7cdsYLsGPVc_Ua?dl=0) | Vapor pressure data for Puerto Rico ranging from 1980 - 2019 | .nc4 |
 
 
-###
-Daymet (V3) Precipitation Data (Edited) 
+### Daymet (V3) Precipitation Data (Edited) 
+
 ---
 
 | Data | Link | Description | File type |
@@ -38,8 +39,8 @@ Daymet (V3) Precipitation Data (Edited)
 | Daymet Monthly Sums | [Link](https://www.dropbox.com/s/z6h79prjzqvf3z9/daymet_v3_prcp_1980-2019_w366dayLeapYr_LtLnTm_wProj_monTots_puertorico_v2.nc4?dl=0) | Daymet precipitation data for Puerto Rico ranging from 1980 - 2019, with leap years, monthly values | .nc4 |
 
 
-###
-Evaporative Demand Drought Index
+### Evaporative Demand Drought Index
+
 ---
 
 | Data | Link | Description | File Type |
@@ -48,8 +49,8 @@ Evaporative Demand Drought Index
 | Import ASCII Files | [Link](https://www.dropbox.com/s/a43mpmimxrlxxe1/eddi_import_ascii_calculate.py?dl=0) | Python script to import ASCII file and calculate | .py | 
 | Plot Map | [Link](https://www.dropbox.com/s/qdxitxoe1ydw4kb/eddi_plotmap.py?dl=0) | Python script to plot map of EDDI data | .py |
 
-###
-Related Datasets
+### Related Datasets
+
 ---
 
 | Data | Link | File Type |
@@ -57,8 +58,8 @@ Related Datasets
 | WRF-Chem AOD and GDI dataset, Part 1 of 2 (652 MB) | [Hosted at Louisiana State University](https://faculty.lsu.edu/paulmiller/data/miller_etal_2020_jgr_wrf-chem_p1.tar.gz) | tar.gz |
 | WRF-Chem AOD and GDI dataset, Part 2 of 2 (509 MB) | [Hosted at Louisiana State University](https://faculty.lsu.edu/paulmiller/data/miller_etal_2020_jgr_wrf-chem_p2.tar.gz) | tar.gz |
 
-###
-Additional Information and Helpful Resources
+### Additional Information and Helpful Resources
+
 ---
 
 | Site | Link | Description | 
@@ -68,10 +69,13 @@ Additional Information and Helpful Resources
 | Pypi | [Link](https://pypi.org/project/climate-indices/) | Useful python package for multiple climate indices. Github [here](https://github.com/monocongo/climate_indices/tree/master/src/climate_indices) |
 | NIDIS Drought Information | [Link](https://www.drought.gov/data-maps-tools/climate-and-drought-indices-python-spi-spei-pet) | Related to Pypi, more information on each index |
 
-###
 ---
+
 ### Data sources will be added at the bottom of the page (WIP)
-| Team Dropbox Folder (login required)
+
+---
+
+| Team Dropbox Folder (login required) |
 | --- |
 | [Team Dropbox](https://www.dropbox.com/sh/rebnh5atu8uown1/AAAy1heflMWmfQtx1yk7BRq2a?dl=0) |
 
@@ -87,3 +91,9 @@ Additional Information and Helpful Resources
 | [Results Page](/results_page.md) | 
 | [Related Works](/related_works.md) |
 | [Dr. Paul Miller LSU](https://faculty.lsu.edu/paulmiller/research_data.php) |
+
+---
+
+![UGA GEOG](https://user-images.githubusercontent.com/89209768/132540951-e0989910-3adc-4abb-8dfd-7d981694d76b.png)
+
+---
