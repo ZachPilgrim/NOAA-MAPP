@@ -42,11 +42,20 @@ Daymet (V3) Precipitation Data (Edited)
 Evaporative Demand Drought Index
 ---
 
-|Data | Link | Description | File Type |
+| Data | Link | Description | File Type |
 | --- | --- | --- | --- |
 | Calculate EDDI Stats | [Link](https://www.dropbox.com/s/40bw46xlmndmwkb/calc_EDDI_stats_climo.py?dl=0) | Python script to calculate Evaporative Demand Drought Index (EDDI) | .py |
 | Import ASCII Files | [Link](https://www.dropbox.com/s/a43mpmimxrlxxe1/eddi_import_ascii_calculate.py?dl=0) | Python script to import ASCII file and calculate | .py | 
 | Plot Map | [Link](https://www.dropbox.com/s/qdxitxoe1ydw4kb/eddi_plotmap.py?dl=0) | Python script to plot map of EDDI data | .py |
+
+###
+Related Datasets
+---
+
+| Data | Link | File Type |
+| --- | --- | --- |
+| WRF-Chem AOD and GDI dataset, Part 1 of 2 (652 MB) | [Hosted at Louisiana State University](https://faculty.lsu.edu/paulmiller/data/miller_etal_2020_jgr_wrf-chem_p1.tar.gz) | tar.gz |
+| WRF-Chem AOD and GDI dataset, Part 2 of 2 (509 MB) | [Hosted at Louisiana State University](https://faculty.lsu.edu/paulmiller/data/miller_etal_2020_jgr_wrf-chem_p2.tar.gz) | tar.gz |
 
 ###
 Additional Information and Helpful Resources
@@ -77,3 +86,4 @@ Additional Information and Helpful Resources
 | [Data Repository](/data_page.md) |
 | [Results Page](/results_page.md) | 
 | [Related Works](/related_works.md) |
+| [Dr. Paul Miller LSU](https://faculty.lsu.edu/paulmiller/research_data.php) |
