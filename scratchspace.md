@@ -1,3 +1,17 @@
+---
+
+### Site Directory:
+
+| Page | 
+| --- |
+| [Main Page](/index.md) |
+| [Scripts Page](/script_page.md) |
+| [Data Repository](/data_page.md) |
+| [Results Page](/results_page.md) | 
+| [Related Works](/related_works.md) |
+
+---
+
 Structure should be - 
 Main page: Introduction - section from the proposal - team members - brief description, data sources, goal
 Scripts page: links? or excerpts of code with a link to download? brief description of what the file is and how to use it?
