@@ -4,7 +4,9 @@
 #### This project will create a multiproduct assessment of drought, including flash drought, and then evaluate climate mechanisms, with a focus on the role of the SAL, that are critical in improving drought early warning in the U.S. Caribbean.
 
 #
+
 Meet the Team:
+
 Dr. Thomas Mote, Principle Investigator
 
 Graduate Students: Shelby Ingram, Zach Pilgrim
@@ -27,21 +29,21 @@ Even on these Caribbean islands with high average annual rainfall and extensive 
 ![image](https://user-images.githubusercontent.com/89209768/133467342-ab9ecb29-6e87-4e1c-a32c-ff85115b1d38.png)
 ##### _Fig. 1. Percent areas of PR in D0 (yellow), D1 (tan), D2 (orange), and D3 (red), and D4 (brown) from the U.S. Drought Monitor._
 
-#
+---
 
-You can view some of the scripts that we are using [here.](/scripts_page.md)
+### Site Directory:
 
-A directory for all of the data that is being used for this project can be found [here.](/data_page.md)
+| Page | 
+| --- |
+| [Scripts Page](/script_page.md) |
+| [Data Repository](/data_page.md) |
+| [Results Page](/results_page.md) | 
+| [Related Works](/related_works.md) |
 
-In development [Results page](/results_page.md)
+---
 
-In development [Related Works](/related_works.md)
-
-#
-
-
-```
 ![UGA GEOG](https://user-images.githubusercontent.com/89209768/132540951-e0989910-3adc-4abb-8dfd-7d981694d76b.png)
 
+---
 
 
