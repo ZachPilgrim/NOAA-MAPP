@@ -14,9 +14,9 @@
 | --- | --- | --- | --- |
 | Daymet Monthly Sums | [Link](https://www.dropbox.com/s/zeau7z3lm288ef7/daymet_monthlysums_newyearlyfile.py?dl=0) | Daymet monthly sums new yearly file | .py |
 | Daymet Leap Year | [Link](https://www.dropbox.com/s/3h4awvjhx3jcg96/daymetleap365_to_366_newyearlyfile_v2.py?dl=0) | Daymet 365 to 366 days, new yearly file version 2 | .py |
-| Penman Montieth Evapotranspiration Monthly Totals | [Link](https://www.dropbox.com/s/n9ulipc00oek8v9/ETo_FAO_PenmanMonteith_montly_climatology_Final.py?dl=0) | The Penman-Montieth ET<sub>o</sub> FAO (Food and Agricultural Organization) - equation for crop reference evapotranspiration  | .py |
+| Penman Monteith Evapotranspiration Monthly Totals | [Link](https://www.dropbox.com/s/n9ulipc00oek8v9/ETo_FAO_PenmanMonteith_montly_climatology_Final.py?dl=0) | The Penman-Monteith ET<sub>o</sub> FAO (Food and Agricultural Organization) - equation for crop reference evapotranspiration  | .py |
 
-### Daymet (V3) Precipitation Data (Raw) 
+### Daymet (V3) Data and Precipitation (Raw) 
 
 ---
 
