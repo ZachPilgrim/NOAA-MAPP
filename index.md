@@ -6,13 +6,15 @@
 
 #### Meet the Team:
 
-Dr. Thomas Mote, Principal Investigator
+Principal Investigator: Dr. Thomas Mote
+
+Co-Investigators: Dr. Paul Miller, Dr. Craig Ramseyer
 
 Graduate Students: Shelby Ingram, Zach Pilgrim
 
 Previous Graduate Students: Dr. Flavia D. S. Moraes
 
-Participants: Dr. Paul Miller, Dr. Craig Ramseyer
+
 
 ### Introduction to the project:
 In groundwater-limited settings, such as the U.S. Caribbean, societal, ecological, and agricultural water needs are largely supplied by regular rainfall. Consequently, these islands, Puerto Rico and the U.S. Virgin Islands, are vulnerable to even short, rapid-onset, dry spells, known as “flash drought,” and drought early warning is immensely
